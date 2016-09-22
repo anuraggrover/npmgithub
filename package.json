@@ -1,0 +1,19 @@
+{
+  "name": "npmgithub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogue87/npmgithub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogue87/npmgithub/issues"
+  },
+  "homepage": "https://github.com/rogue87/npmgithub#readme"
+}
