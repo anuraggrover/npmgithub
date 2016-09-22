@@ -2,6 +2,6 @@
  * Created by anurag on 22/09/16.
  */
 
-const add = require('./index');
+const subtract = require('./index');
 
-console.log('added', add(2, 3));
+console.log('subtracted', subtract(2, 3));
